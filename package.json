@@ -1,0 +1,15 @@
+{
+    "name": "jules3182.truebluetheme",
+    "title": "True Blue Theme",
+    "description": "Paperback theme",
+    "homepage": "https://github.com/Jules3182/TrueBlueBracketsTheme",
+    "version": "1.0.0",
+    "author": "Julian Baker <jtoad23@gmail.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": false,
+        "addModeClass": true
+    },
+    "keywords": ["theme", "paperback", "light", "blue", "cool", "true", "jules3182"]
+}
